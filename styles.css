@@ -1,0 +1,36 @@
+h1,
+h3 {
+  text-align: center;
+}
+
+.building {
+  text-align: center;
+  height: auto;
+  
+}
+
+.floor1 {
+    background-color: #FEFAEC;
+    width: 500px;
+    height: 100px;
+    margin: 0 auto;
+  }
+
+.floor {
+  background-color: rgb(255, 209, 109);
+  width: 500px;
+  /* height: 100px; */
+  margin: 0 auto;
+  border-bottom: 1px solid darkgrey;
+  display: flex;
+  justify-content: space-around;
+}
+
+.lift
+{
+    /* height : 100px; */
+    /* width: 50px; */
+    background-color: #625772;
+    margin: 0 auto;
+    display: inline-flex;
+}
